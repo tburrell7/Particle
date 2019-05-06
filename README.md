@@ -5,7 +5,7 @@ Create a particle account [here](https://login.particle.io/signup).
 
 Download and open the app on a smartphone [here](https://docs.particle.io/guide/getting-started/tinker/raspberry-pi).
 ## Running the Project
-Then go [here](build.particle.io) to open the web IDE and insert the counter code there.
+Go [here](build.particle.io) to open the web IDE and insert the code.
 
 Verify then flash the code to your raspberry pi to run the project.
 ## Help
