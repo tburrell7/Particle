@@ -9,3 +9,4 @@ Then go [here](build.particle.io) to open the web IDE and insert the counter cod
 
 Verify then flash the code to your raspberry pi to run the project.
 
+Other resources I used for functions are [here](https://docs.particle.io/reference/device-os/firmware/raspberry-pi/), and [here](https://docs.particle.io/datasheets/discontinued/raspberrypi-datasheet/) for more about how Particle interfaces with Raspberry Pi.
