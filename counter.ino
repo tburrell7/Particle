@@ -16,7 +16,6 @@ void setup() {
     pinMode(e, OUTPUT);
     pinMode(f, OUTPUT);
     pinMode(g, OUTPUT);
-    Particle.variable("button", button);
     Particle.function("toggle", toggle);
 }
 
